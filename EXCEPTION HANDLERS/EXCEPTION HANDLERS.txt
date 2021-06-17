@@ -1,3 +1,5 @@
+    		WHAT IS MEDIGITZ?
+
 Our project "Medigitz" aims to ensure the health of children by:
 1)reminding parents about the need of vaccines for child at regular intervals
 2)personalized alerts(via sms/email) to remind vaccine dates
@@ -8,8 +10,7 @@ Our project "Medigitz" aims to ensure the health of children by:
 7)Additional feature-pave new ways to kids learning
 
 Unique and positive ideas are assured by team 'Exception Handlers'.
-We provide unique and efficient solutions to mitigate the health issues faced by children. Children are the 
-future of tomorrow and we give ultimate importance to them through our webApp-"Medigitz".
+We provide unique and efficient solutions to mitigate the health issues faced by children. Children are the future of tomorrow and we give ultimate importance to them through our webApp-"Medigitz".
 We help parents to improve their child's health by:-
 ->avoiding diseases like polio,hepatitis,measles that can cause due to lack of immunisation
 ->personalized alerts(via sms/email) to remind vaccine dates
