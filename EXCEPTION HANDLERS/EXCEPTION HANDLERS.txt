@@ -1,0 +1,23 @@
+Our project "Medigitz" aims to ensure the health of children by:
+1)reminding parents about the need of vaccines for child at regular intervals
+2)personalized alerts(via sms/email) to remind vaccine dates
+3)provides personalized nutrition chart age wise
+4)growth inspecting by calculating BMI of child
+5)booking consultation appointment
+6)chatbot system to clear doubts of young parents for efficient parenting
+7)Additional feature-pave new ways to kids learning
+
+Unique and positive ideas are assured by team 'Exception Handlers'.
+We provide unique and efficient solutions to mitigate the health issues faced by children. Children are the 
+future of tomorrow and we give ultimate importance to them through our webApp-"Medigitz".
+We help parents to improve their child's health by:-
+->avoiding diseases like polio,hepatitis,measles that can cause due to lack of immunisation
+->personalized alerts(via sms/email) to remind vaccine dates
+->preventing life style diseases by providing healthy food charts to kids based on age.
+->chatbot system to clear doubts of young parents for efficient parenting.
+PARENTING IS AN ART. WE HELP PARENTS TO BE AN ARTIST BY UPLIFTING THE HEALTH STANDARDS OF THEIR CHILDREN.
+
+WAYS TO HOST OUR PROJECT:
+  Since Medigitz is a webapp, it can be hosted using github or any other hosting sites like wordpress,wix,netlify etc
+  
+  
