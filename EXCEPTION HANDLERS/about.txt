@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>about us</title>
+</head>
+<body>
+<p>
+<h2> MEDIGITZ</h2>
+<br>
+<br>
+Vaccines have greatly reduced infectious diseases that once regularly harmed or killed many infants, children,
+ and adults. For more info visit the website.
+
+</html>
