@@ -1,5 +1,8 @@
     		       WHAT IS MEDIGITZ?
 
+WATCH OUR PROTOTYPE VIDEO:
+  https://drive.google.com/file/d/1jfU7cCAZRWTtZwUQdU-QdHGYeXqVxnNC/view?usp=sharing
+
 Our project "Medigitz" aims to ensure the health of children by:
 1)reminding parents about the need of vaccines for child at regular intervals
 2)personalized alerts(via sms/email) to remind vaccine dates
